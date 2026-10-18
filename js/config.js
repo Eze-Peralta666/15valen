@@ -30,7 +30,7 @@ window.INVITACION = {
   // Confirmación por WhatsApp.
   // Escribí el número con código de país y sin signos. Ej. Argentina: "5493794123456"
   // Si queda vacío, WhatsApp le pide al invitado que elija el contacto.
-  whatsapp: "",
+  whatsapp: "5493795765141",
   confirmarHasta: "25 de noviembre",
 
   // Música. El archivo está en assets/audio/. "inicio" es el segundo desde el que empieza a sonar.
